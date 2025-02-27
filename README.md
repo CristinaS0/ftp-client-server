@@ -1,6 +1,6 @@
 # Context
 
-This project was done during the CodeForAll_ Online Bootcamp, as an assignment from week-10 - Networking. This was done in collaboration with @CristinaS0.
+This project was done during the CodeForAll_ Online Bootcamp, as an assignment from week-10 - Networking. This was done in collaboration with @PedroRocha84.
 
 # Goal
 
